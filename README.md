@@ -13,5 +13,5 @@ usage: in terminal
     python volumeControl.py
     
     
-You can also use the gesture grab module created in [HandTrackModule.py]() by importing handDetector()
+You can also use the gesture grab module created in [HandTrackModule.py](https://github.com/sunchongren/Gesture-Volume-Control/blob/main/HandTrackModule.py) by importing handDetector() class
 
