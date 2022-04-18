@@ -11,4 +11,7 @@ usage: in terminal
 
     pip install -r requirements.txt
     python volumeControl.py
+    
+    
+You can also use the gesture grab module created in [HandTrackModule.py]() by importing handDetector()
 
